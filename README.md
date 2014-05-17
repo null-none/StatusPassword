@@ -1,4 +1,4 @@
 statusPassword
 ==============
 
-Плагин, который определяет сложность пароля
+Javascript plugin which check password complexity.
