@@ -80,19 +80,19 @@ Version 1.0
     */
     var output = {
       empty: function() {
-        $('#status').html('пусто')
+        $('#status').html('empty')
       },
       light: function() {
-        $('#status').html('легкий пароль')
+        $('#status').html('light password')
       },
       normal: function() {
-        $('#status').html('средний пароль')
+        $('#status').html('normal password')
       },
       good: function() {
-        $('#status').html('хороший пароль')
+        $('#status').html('good password')
       },
       hard: function() {
-        $('#status').html('тяжелый пароль')
+        $('#status').html('hard password')
       },
     };
 
