@@ -30,3 +30,5 @@ Javascript plugin which check password complexity.
 </body>
 </html>
 ```
+
+![](https://github.com/MergEye/StatusPassword/blob/master/demo.gif)
